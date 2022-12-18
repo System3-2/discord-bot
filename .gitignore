@@ -1,0 +1,12 @@
+gitignore - Specifies intentionally untracked files to ignore
+
+If you are using Laravel 5.3, following are the files and directories that are going to be ignored. Here you will find out how they ignored vendor directory by using /vendor and configuration files like .env
+
+/node_modules
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
