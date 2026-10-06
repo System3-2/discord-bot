@@ -1,6 +1,6 @@
 {
     "require": {
-        "team-reflex/discord-php": "^7.3",
+        "team-reflex/discord-php": "^10.0",
         "guzzlehttp/guzzle": "^7.5"
     }
 }
